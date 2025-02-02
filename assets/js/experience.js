@@ -6,7 +6,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Postman API Fundamentals Student Expert badge!",
-    cardImage: "assets/images/experience-page/postmanApi.png",
+    cardImage: "assets/images/experience-page/PostmanApi.png",
     href: "https://badgr.com/public/assertions/CEEAESsYSAmIwkzZzddnMQ?identity__email=tigertanish026@gmail.com",
     place: "Postman",
     time: "(Oct, 2024)",
